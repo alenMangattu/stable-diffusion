@@ -1,1 +1,1 @@
-bare bone implementation of the DDPM (Denoising Diffusion Probabilistic Models) paper ig
+bare bones implementation of the DDPM (Denoising Diffusion Probabilistic Models) paper ig
